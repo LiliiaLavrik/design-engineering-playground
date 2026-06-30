@@ -1,2 +1,15 @@
-# design-engineering-playground
-Learning Git, GitHub, Claude Code and Design Engineering workflows.
+# Design Engineering Playground
+
+This repository contains my learning journey in Design Engineering.
+
+## Topics
+
+- Git & GitHub
+- Claude Code
+- React
+- AI-assisted workflows
+- Design Engineering
+
+## Author
+
+Liliia Lavrik
