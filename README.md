@@ -1,15 +1,5 @@
-# Design Engineering Playground
+## About Me
 
-This repository contains my learning journey in Design Engineering.
+I'm a Product Designer with 5+ years of experience creating web and mobile products.
 
-## Topics
-
-- Git & GitHub
-- Claude Code
-- React
-- AI-assisted workflows
-- Design Engineering
-
-## Author
-
-Liliia Lavrik
+Currently learning Design Engineering, GitHub and AI-assisted workflows.
